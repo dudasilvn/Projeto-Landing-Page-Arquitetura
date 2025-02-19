@@ -13,9 +13,9 @@ Este repositório contém um projeto de Landing Page para uma empresa de arquite
 
 ## Como Usar
 1. Site:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   ```
+https://github.com/seu-usuario/nome-do-repositorio.git](https://landingpagearquiteturacreator.netlify.app/)
+
+
 ## Estrutura do Projeto
 ```
 /
